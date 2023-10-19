@@ -1,2 +1,2 @@
 # flowgraphs
-Application of signal flow graphs to macroeconomic models
+Macroeconomic models in a causal representation by signal flow graphs  
